@@ -1,0 +1,7 @@
+Hello, this is a new file created using write 
+
+Appending this line to the file.
+Appending this line to the file.
+Appending this line to the example_write.txt file.
+Appending this line to the file.
+Appending this line to the example_write.txt file.
